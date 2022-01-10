@@ -31,7 +31,7 @@ The website should run on a local host.
 https://youtu.be/sB6NhZ08MvY
 
 
-To use the web application:
+# To use the web application:
  
 * Our Home page displays the purpose of the website and the link to upload course materials to our platform. This page has a description of our prupose to allow users to learn more about the motivation behind our platform.
  

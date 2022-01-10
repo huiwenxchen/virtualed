@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block main %}
+<div
+  class="bg-image p-5 text-center shadow-1-strong rounded mb-5 text-white"
+  style="background-image: url('../static/student_photo.jpg');"
+>
+  <h1>We are VirtualEd.</h1>
+
+</div>
+
+<div>
+    <div class="row">
+        <div class="col-sm-6">
+          <h2>Our Purpose</h2>
+          <p> VirtualEd is a community-based tool to increase the accessibility and availability 
+              of high-quality education. We advocate for a world in which people have equal 
+              educational opportunities; thanks to the recent digitization of educational materials and 
+              content, this goal can become a reality. With VirtualEd, 
+              any student with access to the internet can have syllabi and course materials 
+              — literature curated by leading experts in a field — at their fingertips. 
+              And better yet, students can upload their course materials and contribute to 
+              the repository, building a learning community among their fellow classmates. 
+              At VirtualEd, students are helping students learn. Together, we grow best. </p>
+        </div>
+        <div class="col-sm-6">
+          <h2>How to contribute</h2>
+          <a href="/upload">Upload</a> your materials today. 
+        </div>
+      </div>
+</div>
+{% endblock %}

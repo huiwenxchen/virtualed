@@ -1,3 +1,5 @@
+VirtualEd is a Flask app project made by Huiwen Chen and Audrey Chang. 
+
 To run our project using Visual Studio Code:
  
 * Download Visual Studio Code and Python3 (or the latest version of Python) on the local computer
